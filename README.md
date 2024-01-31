@@ -6,6 +6,8 @@ First one of Berkeley CS188's Pacman Projects. The goal of the assignment is to 
 #### Files I Have Edited
 - search.py
 - searchAgents.py
+
+
 My code can be found under the "*** YOUR CODE HERE ***" blocks.
 
 
